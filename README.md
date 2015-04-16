@@ -1,0 +1,15 @@
+#Pattern in Filename Cleanup
+
+Pattern in Filename Cleanup is a quick and dirty application that is useful for stripping a pattern out of filenames. The search is recursive and a file is only tested once for the pattern. 
+
+Patterns are described with a beginning and an ending value meaning that Patterns that vary slightly can be accomodated.
+
+Created by Craig Lotter, June 2007
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2005
+Implements concepts such as threading, file renaming.
+Level of Complexity: Very Simple
